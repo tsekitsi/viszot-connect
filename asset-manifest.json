@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/viszot-connect/static/css/main.073c9b0a.css",
-    "main.js": "/viszot-connect/static/js/main.729dd547.js",
+    "main.js": "/viszot-connect/static/js/main.65c126eb.js",
     "static/js/787.08699885.chunk.js": "/viszot-connect/static/js/787.08699885.chunk.js",
     "index.html": "/viszot-connect/index.html",
     "main.073c9b0a.css.map": "/viszot-connect/static/css/main.073c9b0a.css.map",
-    "main.729dd547.js.map": "/viszot-connect/static/js/main.729dd547.js.map",
+    "main.65c126eb.js.map": "/viszot-connect/static/js/main.65c126eb.js.map",
     "787.08699885.chunk.js.map": "/viszot-connect/static/js/787.08699885.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.729dd547.js"
+    "static/js/main.65c126eb.js"
   ]
 }
